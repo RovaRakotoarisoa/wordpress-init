@@ -1,0 +1,3 @@
+userName: admin
+password: V*MC@&*lRgxdVSCziE
+email: rovarakotoarisoa114@gmail.com
